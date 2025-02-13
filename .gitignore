@@ -1,1 +1,2 @@
 .env
+# Ignoring the .env file, which contains sensitive data
